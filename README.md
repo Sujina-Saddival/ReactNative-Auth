@@ -4,6 +4,6 @@ Clone the Project
 
 adb devices
 
-terminal1: react-native start
+Run application: react-native start
 
-terminal2: react-native run-android
+Build applictaion: react-native run-android
